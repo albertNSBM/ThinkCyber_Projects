@@ -2,7 +2,7 @@
 ## OUT PUT OF OF HOW THIS TOOL WORKS 
 
 This is a high advanced tool written in Bash scrip programming language. Once you run it, it will install the necessary tool and dependencies 
-then after it will check if you are anounmous if not it will exit if anounmas it.
+then after it will check if you are anounmous if not it will exit if anonynmas it.
 
 
 ![5](https://github.com/user-attachments/assets/8ad21d07-72b2-4d07-b44a-fb37b61d2d5f)
@@ -10,4 +10,4 @@ then after it will check if you are anounmous if not it will exit if anounmas it
 
 ![7](https://github.com/user-attachments/assets/c836b74c-ec52-4bde-89ca-9d1dc3b12e50)
 
-## When You are anounmous 
+## When You are anonynmous 
