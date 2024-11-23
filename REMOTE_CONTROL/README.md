@@ -9,3 +9,5 @@ then after it will check if you are anounmous if not it will exit if anounmas it
 ![6](https://github.com/user-attachments/assets/bac1ed84-a640-4a60-9cb2-3f5cd0e42985)
 
 ![7](https://github.com/user-attachments/assets/c836b74c-ec52-4bde-89ca-9d1dc3b12e50)
+
+## When You are anounmous 
